@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+.logo{
+    display: block;
+    margin: 195px auto 122.65px auto;
+}
+
+#login{
+    display: block;
+    width: 321px;
+    height: 46px;
+    margin: 0 auto;
+    padding-left: 19.28px;
+    border-radius: 10px;
+    border: none;
+    background: #f7f7f7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+}
+
+#password{
+    display: block;
+    width: 321px;
+    height: 46px;
+    margin: 21px auto 35px auto;
+    padding-left: 19.28px;
+    border-radius: 10px;
+    border: none;
+    background: #f7f7f7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+}
+
+#placeholder{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+}
+
+.forgot{
+    display: block;
+    text-align: end;
+    margin-right: 59px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+}
+
+button{
+    display: block;
+    width: 133px;
+    height: 46px;
+    border-radius: 10px;
+    background-color: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    margin: 38px auto 21px auto;
+    border: none;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.registering{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #969696;
+    text-align: center;
+}
+
+p{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+    margin-top: 62px;
+}
+
+div{
+    margin: 20px 125px 80.5px 128px;    
+}
+
+#dotz{
+    margin: 0 16.5px;
+}
